@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/WSATestCertificate.*
+[Aa]pp/
 
 # Visual Studio cache directory
 .vs/
